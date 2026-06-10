@@ -25,7 +25,3 @@ The design allows for testing network performance (bandwidth and delay) between 
 You need to have Mininet installed on your Linux environment (Ubuntu recommended).
 ```bash
 sudo apt-get install mininet
-
-
-
-<img width="899" height="514" alt="image" src="https://github.com/user-attachments/assets/38481f91-1f30-4d9d-99a2-7b2c9cb3fc09" />
