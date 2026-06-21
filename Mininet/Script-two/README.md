@@ -18,3 +18,4 @@ The script utilizes iperf to measure TCP throughput and network performance betw
     Congestion Control: The -Z cong flag is used to apply a specific TCP congestion control algorithm to the data stream.
 
 
+!<img width="791" height="572" alt="after_iperf" src="https://github.com/user-attachments/assets/67e1321d-a4fc-4c57-8537-7b7a08811749" />
