@@ -17,5 +17,4 @@ The script utilizes iperf to measure TCP throughput and network performance betw
     Output Format: Data is exported in CSV format (-y) and stored in the file tcp_thr_h1 for post-test analysis.
     Congestion Control: The -Z cong flag is used to apply a specific TCP congestion control algorithm to the data stream.
 
-   ! <img width="784" height="569" alt="image" src="https://github.com/user-attachments/assets/d0b87701-04a8-452c-bac9-c73ffab00b9a" />
 
